@@ -1,5 +1,9 @@
+
 import streamlit as st
 import requests
+import sys
+import os
+sys.path.append(r"C:\Users\jilla\Desktop\stock_ai_predictor")
 from charts.candlestick_plot import get_candlestick
 
 st.set_page_config(page_title="AI Stock Predictor", layout="centered")

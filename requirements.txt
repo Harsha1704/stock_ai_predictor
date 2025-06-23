@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-pandas
-numpy
-yfinance
-scikit-learn
-xgboost
-matplotlib
 joblib
+scikit-learn
+pandas
+plotly
+streamlit
+requests
+yfinance
